@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" role="img" aria-label="[ LOCKED ]">
+  <style>.dot { animation: p 1.6s ease-in-out infinite; } @keyframes p { 50% { opacity: .25; } }</style>
+  <defs><pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#fff" fill-opacity=".035"/></pattern>
+    <radialGradient id="cg" cx="100%" cy="0%" r="70%"><stop offset="0" stop-color="#FF2BD6" stop-opacity=".06"/><stop offset="1" stop-color="#FF2BD6" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="900" height="320" rx="10" fill="#0E0820"/>
+  <rect width="900" height="320" rx="10" fill="url(#cg)"/>
+  <rect width="900" height="320" rx="10" fill="url(#scan)"/>
+  <path d="M6,26 V6 H26 M874,6 H894 V26 M894,294 V314 H874 M26,314 H6 V294" fill="none" stroke="#8A7FA8" stroke-width="2.5" stroke-opacity=".9"/>
+  <text x="44" y="62" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="17" fill="#00F0FF" letter-spacing="3">QUEST 02</text>
+  <circle cx="705.6" cy="56" r="5" fill="#8A7FA8" class="dot"/>
+  <text x="856" y="62" text-anchor="end" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="17" fill="#8A7FA8" letter-spacing="2">COMING SOON</text>
+  <text x="44" y="112" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="38" font-weight="800" fill="#8A7FA8" letter-spacing="1">[ LOCKED ]</text>
+  <text x="44" y="156" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" fill="#8A7FA8">Next project in progress.</text><text x="44" y="188" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" fill="#8A7FA8">Unlocking soon.</text>
+  <rect x="44" y="256" width="193" height="32" fill="#FF2BD6" fill-opacity=".12" stroke="#FF2BD6" stroke-opacity=".6"/><text x="140.5" y="278" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="17" fill="#FF2BD6">build in public</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="64" viewBox="0 0 800 64" role="img" aria-label="05 CONTACT">
+  <defs><linearGradient id="h" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#00F0FF"/><stop offset=".6" stop-color="#FF2BD6" stop-opacity=".5"/><stop offset="1" stop-color="#FF2BD6" stop-opacity="0"/>
+  </linearGradient></defs>
+  <rect x="2" y="14" width="44" height="32" fill="#FF2BD6"/>
+  <text x="24" y="38" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" font-weight="800" fill="#07020F">05</text>
+  <text x="62" y="40" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="26" font-weight="800" fill="#F2F0FF" letter-spacing="3">CONTACT</text>
+  <text x="798" y="40" text-anchor="end" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="16" fill="#8A7FA8" letter-spacing="2">// multiplayer</text>
+  <rect x="2" y="56" width="796" height="2" fill="url(#h)"/>
+</svg>
