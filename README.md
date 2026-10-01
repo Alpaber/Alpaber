@@ -78,9 +78,9 @@
 <!-- ══════════════════════════  03 SUBIENDO DE NIVEL  ════════════ -->
 <img src="assets/h-learning.svg" width="100%" alt="03 · Subiendo de nivel" />
 
-`▸ estudiando` &nbsp; Curso de Especialización en **Python** — backend, automatización y análisis de datos
+`▸ completado` &nbsp; Curso de Especialización en **Python** — backend, automatización y análisis de datos
 
-`▸ en cola` &nbsp; Lo siguiente que estoy aprendiendo para IA y Big Data:
+`▸ estudiando` &nbsp; Curso de Especialización en **IA y Big Data**. Tecnologías que estoy aprendiendo:
 
 <p align="center">
   <img src="assets/queue.svg" width="100%" alt="Aprendiendo: TensorFlow, Keras, Apache Spark, Hadoop, MongoDB, Power BI" />

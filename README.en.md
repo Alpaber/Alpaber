@@ -63,9 +63,9 @@
 <!-- ══════════════════════════  03 LEVELLING UP  ═════════════════ -->
 <img src="assets/h-learning-en.svg" width="100%" alt="03 · Levelling up" />
 
-`▸ studying` &nbsp; **Python** Specialisation Course — backend, automation and data analysis
+`▸ completed` &nbsp; **Python** Specialisation Course — backend, automation and data analysis
 
-`▸ queued` &nbsp; What I'm learning next for AI and Big Data:
+`▸ studying` &nbsp; **AI and Big Data** Specialisation Course. Technologies I'm learning:
 
 <p align="center">
   <img src="assets/queue-en.svg" width="100%" alt="Learning: TensorFlow, Keras, Apache Spark, Hadoop, MongoDB, Power BI" />
